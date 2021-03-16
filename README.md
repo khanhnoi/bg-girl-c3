@@ -10,7 +10,7 @@ Bữa mình thứ 7 . tuần trước (13/3/2021) mình đi phỏng vấn ở 24
 
 Làm test 2 bài chứng chỉ trước khá ok.
 
-- 1.Vô 2 anh trai phỏng vấn hỏi mình đã làm bài logic ntn -> Mình nói rõ và khó khăn mình gặp phải
+- 1. Vô 2 anh trai phỏng vấn hỏi mình đã làm bài logic ntn -> Mình nói rõ và khó khăn mình gặp phải
 - 2. Họ hỏi mình về 1 bài toán tham chiếu. mình trả lời dc. Sau đó họ hỏi câu 2 mình cũng ok. Nhưng câu 3 hơi sâu vấn đề ni. Mình nói chưa gặp phải vấn đề này
 - 3. Và họ hỏi mình sẽ giải quyết vấn đề trên bằng cách search ntn? => mình nói search tiếng Anh những keywords cần thiết và thêm chữ stackoverflow sau keyword có thể ra da tốt hơn
 - 4. Anh hỏi về ngôn ngữ mình thích và React. Vòng đời react, useEffect, và công của [], nhưng lại quên mất [] gọi là gì :v
